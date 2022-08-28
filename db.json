@@ -1,0 +1,10 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "Omar",
+      "cost": 500
+    }
+  ]
+}
